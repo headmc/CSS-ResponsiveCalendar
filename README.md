@@ -1,7 +1,9 @@
-# Responsive CSS Calendar Layout - No Tables
+# Responsive CSS Calendar Layout
 ### *Simple CSS Calendar Layout*
 
 * HTML5 & CSS3 only
+* No tables
+* Dark theme
 
 ### NOTES
-* This is a CSS layout exercise so there is no functionality
+* This is a CSS layout exercise so the calendar has no functionality
