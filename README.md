@@ -1,4 +1,4 @@
-# Responsive CSS Calendar Layout
+# Responsive CSS Calendar
 ### *Simple CSS Calendar Layout*
 
 * HTML5 & CSS3 only
